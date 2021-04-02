@@ -1,4 +1,4 @@
-### Hello there, I'm Anna! - [![Website](https://img.icons8.com/cotton/64/000000/website.png)](https://annameomutli.netlify.app) 
+### Hello there, I'm Anna! - [![Website](https://img.icons8.com/cotton/48/000000/website.png)](https://annameomutli.netlify.app) 
 
 Click on the icon above to visit my website - there you can find more information about me, my studies, my work and my hobbies!
 
