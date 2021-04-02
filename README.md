@@ -1,19 +1,15 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hello there, I'm Anna! - [website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](<img src="https://img.icons8.com/color/48/000000/world-map-continents.png"/>)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## What have I been up to in my 22 years of life?
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+- 🤓 I just finished my second research project: [Economic Irrationality of Migration][research]!
+- 📓 I’m a graduate student at Boston College MS in Applied Economics 
+- 🌐 I’m looking for a job that will allow me to positively impact the world! (<img src="https://img.icons8.com/color/48/000000/world-map-continents.png"/>)
+- 🥅 2021 Goals: Meet more like-minded people and learn more!
+- ⚡ Fun fact: I speak 6 languages!
 
 ### Connect with me:
 
@@ -98,7 +94,7 @@
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[research]: https://drive.google.com/file/d/14-_LZUSh3Hy8hODPJeT5Q9YgPtKhYKy5/view?usp=sharing
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
