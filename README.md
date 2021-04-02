@@ -1,6 +1,6 @@
 ### Hello there, I'm Anna! - [website] 👋
 
-[![Website](https://img.icons8.com/bubbles/50/000000/domain.png)](https://annameomutli.netlify.app) Visit me right here - there you can find more information about me, my studies, my work and my hobbies!
+[![Website](https://img.icons8.com/bubbles/42/000000/domain.png)](https://annameomutli.netlify.app) Visit me right here - there you can find more information about me, my studies, my work and my hobbies!
 
 
 ## What have I been up to in my 22 years of life?
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="annameomutli.netlify.app" width="52px" src="https://img.icons8.com/bubbles/96/000000/domain.png">][website]
+[<img align="left" alt="annameomutli.netlify.app" width="52px" src="https://img.icons8.com/bubbles/111/000000/domain.png">][website]
 [<img align="left" alt="Anna Meomutli | LinkedIn" width="52px" src="https://img.icons8.com/ultraviolet/100/000000/linkedin-circled--v3.png">][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/144/000000/instagram-new--v2.png">][instagram]
 
