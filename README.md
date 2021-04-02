@@ -13,9 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/ultraviolet/40/000000/internet--v2.png">][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/ultraviolet/40/000000/linkedin-circled--v3.png">][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color/40/000000/instagram-new--v2.png"/>][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/ultraviolet/50/000000/internet--v2.png">][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/ultraviolet/50/000000/linkedin-circled--v3.png">][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>][instagram]
 
 <br />
 
