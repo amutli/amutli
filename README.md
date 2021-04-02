@@ -1,12 +1,12 @@
 ### Hello there, I'm Anna! - [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](<img src="https://img.icons8.com/bubbles/50/000000/domain.png"/>](https://annameomutli.netlify.app)
 
 ## What have I been up to in my 22 years of life?
 
 - 🤓 I just finished my second research project: [Economic Irrationality of Migration][research]!
 - 📓 I’m a graduate student at Boston College MS in Applied Economics 
-- 🌐 I’m looking for a job that will allow me to positively impact the world! <img src="https://img.icons8.com/color/29/000000/world-map-continents.png"/>
+- 🌐 I’m looking for a job that will allow me to positively impact the world!
 - 🥅 2021 Goals: Meet more like-minded people and learn more!
 - ⚡ Fun fact: I speak 6 languages!
 
@@ -42,20 +42,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Don't Mess Up This Technical Interview Question | Use JavaScript Map() & Set() Objects](https://www.youtube.com/watch?v=oMvzICS-9l4)
-- [😢 STACKr News Canceled?? This Could Be The Last Issue (STACKr News 2021, Issue #11)](https://www.youtube.com/watch?v=jpox3uizTs8)
-- [10 Things I Wish I Knew Before I Started Programming](https://www.youtube.com/watch?v=x4gu6JGwKAI)
-- [[#10] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #10)](https://www.youtube.com/watch?v=xDVgpW1tig4)
-- [Top VS Code Updates | v1.54 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=Qj6Jya9APiU)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -72,13 +58,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://annameomutli.netlify.app
 [research]: https://drive.google.com/file/d/14-_LZUSh3Hy8hODPJeT5Q9YgPtKhYKy5/view?usp=sharing
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[instagram]: https://instagram.com/annaoranya
+[linkedin]: https://linkedin.com/in/annameomutli
