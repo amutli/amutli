@@ -32,4 +32,4 @@ Click on the icon above to visit my website - there you can find more informatio
 [research]: https://drive.google.com/file/d/14-_LZUSh3Hy8hODPJeT5Q9YgPtKhYKy5/view?usp=sharing
 [instagram]: https://instagram.com/annaoranya
 [linkedin]: https://linkedin.com/in/annameomutli
-[calendly]: https://calendly.com/anna_meomutli
+[calendly]: https://calendly.com/anna_meomut
