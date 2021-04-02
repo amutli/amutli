@@ -1,6 +1,6 @@
 ### Hello there, I'm Anna! - [website] 👋
 
-[![website](<img src="https://img.icons8.com/bubbles/50/000000/domain.png"/>)](https://annameomutli.netlify.app)
+[![Website](https://img.icons8.com/bubbles/50/000000/domain.png)](https://annameomutli.netlify.app)
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 ## What have I been up to in my 22 years of life?
