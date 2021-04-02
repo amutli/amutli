@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website]("https://img.icons8.com/ultraviolet/144/000000/internet--v2.png")](https://annameomutli.netlify.app)
-[<img align="left" alt="Anna Meomutli | LinkedIn" width="32px" src="https://img.icons8.com/ultraviolet/100/000000/linkedin-circled--v3.png">][linkedin]
+[<img align="left" alt="annameomutli.netlify.app" width="52px" src="https://img.icons8.com/bubbles/50/000000/domain.png">][website]
+[<img align="left" alt="Anna Meomutli | LinkedIn" width="52px" src="https://img.icons8.com/ultraviolet/100/000000/linkedin-circled--v3.png">][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/144/000000/instagram-new--v2.png">][instagram]
 
 <br />
