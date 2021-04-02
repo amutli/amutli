@@ -1,6 +1,7 @@
-### Hello there, I'm Anna! - [website] 👋
+### Hello there, I'm Anna!
 
-Visit me right here - there you can find more information about me, my studies, my work and my hobbies! [![Website](https://img.icons8.com/bubbles/42/000000/domain.png)](https://annameomutli.netlify.app) 
+Click on the icon below to visit my website - there you can find more information about me, my studies, my work and my hobbies! 
+[![Website](https://img.icons8.com/cotton/64/000000/website.png)](https://annameomutli.netlify.app) 
 
 
 ## What have I been up to in my 22 years of life?
