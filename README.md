@@ -7,7 +7,7 @@
 
 - 🤓 I just finished my second research project: [Economic Irrationality of Migration][research]!
 - 📓 I’m a graduate student at Boston College MS in Applied Economics 
-- 🌐 I’m looking for a job that will allow me to positively impact the world! (<img src="https://img.icons8.com/color/48/000000/world-map-continents.png"/>)
+- 🌐 I’m looking for a job that will allow me to positively impact the world! <img src="https://img.icons8.com/color/29/000000/world-map-continents.png"/>
 - 🥅 2021 Goals: Meet more like-minded people and learn more!
 - ⚡ Fun fact: I speak 6 languages!
 
