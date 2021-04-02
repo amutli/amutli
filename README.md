@@ -19,8 +19,6 @@ Click on the icon above to visit my website - there you can find more informatio
 [<img align="left" alt="Instagram" width="52px" src="https://img.icons8.com/color/144/000000/instagram-new--v2.png">][instagram]
 [<img align="left" alt="Calendly" width="52px" src="https://img.icons8.com/cotton/64/000000/chat.png"/>][calendly]
 
----
-
 </details>
 
 [website]: https://annameomutli.netlify.app
